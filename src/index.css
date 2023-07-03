@@ -297,9 +297,6 @@ Stripe Styles
   }
 }
 @media screen and (min-width: 1400px) {
-  .hero-center {
-    padding-bottom: 20vh;
-  }
   .phone-img {
     width: 17rem;
   }
